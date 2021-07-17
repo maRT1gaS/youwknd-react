@@ -22,7 +22,7 @@ const ScrollTop = () => {
 
     return ( 
         <div className={ visible ? 'scroll-top' : 'scroll-top scroll-top--opacity' }>
-            <HashLink smooth to="/youwknd#">
+            <HashLink smooth to="/youwknd-react#">
                 <img src={arrowTop} alt={ t('scroll-top.aria-label') } aria-label={ t('scroll-top.aria-label') }/>
             </HashLink>
         </div>

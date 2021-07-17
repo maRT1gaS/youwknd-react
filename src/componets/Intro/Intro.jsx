@@ -15,7 +15,7 @@ const Intro = () => {
                     <h1 className="intro__title"> {t('intro.title-trip')} <span className="yellow">youWKND</span></h1>
                     <div className="intro__time"> {t('intro.time-trip')} </div>
                     <div className="intro__cost"> {t('intro.cost-trip')} </div>
-                    <HashLink to="/youwknd#registration-travel" smooth className="intro__btn" aria-label={ t('intro.button-order.aria-label') }> {t('intro.button-order.text')} </HashLink>
+                    <HashLink to="/youwknd-react#registration-travel" smooth className="intro__btn" aria-label={ t('intro.button-order.aria-label') }> {t('intro.button-order.text')} </HashLink>
                     </Tada>
                 </div>
         </section>
