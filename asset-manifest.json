@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/youwknd-react/static/css/main.2a930949.chunk.css",
-    "main.js": "/youwknd-react/static/js/main.cf3c4808.chunk.js",
-    "main.js.map": "/youwknd-react/static/js/main.cf3c4808.chunk.js.map",
+    "main.js": "/youwknd-react/static/js/main.e20848a5.chunk.js",
+    "main.js.map": "/youwknd-react/static/js/main.e20848a5.chunk.js.map",
     "runtime-main.js": "/youwknd-react/static/js/runtime-main.1085c7bc.js",
     "runtime-main.js.map": "/youwknd-react/static/js/runtime-main.1085c7bc.js.map",
     "static/js/2.5962be04.chunk.js": "/youwknd-react/static/js/2.5962be04.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.1085c7bc.js",
     "static/js/2.5962be04.chunk.js",
     "static/css/main.2a930949.chunk.css",
-    "static/js/main.cf3c4808.chunk.js"
+    "static/js/main.e20848a5.chunk.js"
   ]
 }
