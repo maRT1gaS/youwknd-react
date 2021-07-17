@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/youwknd-react/static/css/main.2a930949.chunk.css",
+    "main.js": "/youwknd-react/static/js/main.98f7b41f.chunk.js",
+    "main.js.map": "/youwknd-react/static/js/main.98f7b41f.chunk.js.map",
+    "runtime-main.js": "/youwknd-react/static/js/runtime-main.1085c7bc.js",
+    "runtime-main.js.map": "/youwknd-react/static/js/runtime-main.1085c7bc.js.map",
+    "static/js/2.5962be04.chunk.js": "/youwknd-react/static/js/2.5962be04.chunk.js",
+    "static/js/2.5962be04.chunk.js.map": "/youwknd-react/static/js/2.5962be04.chunk.js.map",
+    "index.html": "/youwknd-react/index.html",
+    "static/css/main.2a930949.chunk.css.map": "/youwknd-react/static/css/main.2a930949.chunk.css.map",
+    "static/js/2.5962be04.chunk.js.LICENSE.txt": "/youwknd-react/static/js/2.5962be04.chunk.js.LICENSE.txt",
+    "static/media/app.sass": "/youwknd-react/static/media/Robotomedium.76cb645b.woff2",
+    "static/media/arrow-up.d94951eb.svg": "/youwknd-react/static/media/arrow-up.d94951eb.svg",
+    "static/media/check-mark.61045c6f.svg": "/youwknd-react/static/media/check-mark.61045c6f.svg",
+    "static/media/instagram.7a2d8d9b.svg": "/youwknd-react/static/media/instagram.7a2d8d9b.svg",
+    "static/media/intro.sass": "/youwknd-react/static/media/intro-bg.a92fd716.jpg",
+    "static/media/menu-burger.6aa5741c.svg": "/youwknd-react/static/media/menu-burger.6aa5741c.svg",
+    "static/media/telegram.9bb20bcf.svg": "/youwknd-react/static/media/telegram.9bb20bcf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1085c7bc.js",
+    "static/js/2.5962be04.chunk.js",
+    "static/css/main.2a930949.chunk.css",
+    "static/js/main.98f7b41f.chunk.js"
+  ]
+}
