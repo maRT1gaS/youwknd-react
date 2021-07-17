@@ -16,7 +16,7 @@ const Navigation = () => {
             {navObj.map((item, index) => {
               return (
               <li className="nav__item" key={index}>
-                <HashLink smooth to={"/youwknd" + item.url} className="nav__link">{item.title}</HashLink>
+                <HashLink smooth to={"/youwknd-react" + item.url} className="nav__link">{item.title}</HashLink>
               </li>)
             })}
         </ul>
