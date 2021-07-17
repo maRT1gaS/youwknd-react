@@ -1,0 +1,68 @@
+@import "../../style/_variables.sass"
+@import "../../style/_mixins.sass"
+
+.intro
+    position: relative
+    height: 100vh
+    min-height: 100%
+    background: url('../../assets/img/intro-bg.jpg') center center no-repeat
+    background-size: cover
+
+    &__content
+        position: absolute
+        min-width: 280px
+        max-width: 900px
+        text-align: center
+        transform: translate(-50%, -50%)
+        left: 50%
+        top: 50%
+
+    &__title
+        @include font(3.25em, 1.24, 600, "Roboto", Arial, sans-serif)
+        color: $white-color
+
+        @media (max-width: 1000px)
+            @include font(3em, 1, 600, "Roboto", Arial, sans-serif)
+
+        @media (max-width: 900px)
+            @include font(2.5em, 1, 600, "Roboto", Arial, sans-serif)
+
+        @media (max-width: 700px)
+            @include font(1.8em, 1.1, 600, "Roboto", Arial, sans-serif)
+
+    &__time
+        text-transform: uppercase
+        @include font(1.75em, 1.45, 700, "Roboto", Arial, sans-serif)
+        color: $white-color
+        margin-top: 1.5em
+
+        @media (max-width: 900px)
+            @include font(1.5em, 1.30, 700, "Roboto", Arial, sans-serif)
+
+        @media (max-width: 500px)
+            @include font(1.2em, 1.15, 700, "Roboto", Arial, sans-serif)
+
+    &__cost
+        margin-top: 2em
+        @include font(1.75em, 1.45, 600, "Roboto", Arial, sans-serif)
+        color: $white-color
+        margin-bottom: 2em
+
+        @media (max-width: 650px)
+            @include font(1.3em, 1.30, 700, "Roboto", Arial, sans-serif)
+            margin-top: 1.5em 
+
+        @media (max-width: 500px)
+            @include font(1.2em, 1.15, 700, "Roboto", Arial, sans-serif)
+
+    &__btn
+        @include font(1.2em, 1.2, 600, "Roboto", Arial, sans-serif)
+        background-color: red
+        padding: .8em 3em
+        text-transform: uppercase     
+        color: $white-color
+
+        @media (max-width: 700px)
+            @include font(1em, 1, 600, "Roboto", Arial, sans-serif)
+            padding: .7em 1.5em
+
