@@ -1,3 +1,10 @@
+# The technologies I used:
+React
+React-Router-Hash-Link
+React-Reveal
+Material UI
+I18Next
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
