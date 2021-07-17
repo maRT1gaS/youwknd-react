@@ -1,9 +1,10 @@
-# The technologies I used:
-React
-React-Router-Hash-Link
-React-Reveal
-Material UI
-I18Next
+## GitHub Page:
+
+https://mart1gas.github.io/youwknd-react/
+
+## The technologies I used:
+
+React, React-Router-Hash-Link, React-Reveal, Material UI, I18Next
 
 # Getting Started with Create React App
 
