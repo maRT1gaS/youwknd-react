@@ -1,0 +1,21 @@
+@import "../../../style/_variables.sass"
+@import "../../../style/_mixins.sass"
+
+.description
+    display: flex
+    align-items: flex-start
+    max-width: 755px
+    
+    &:not(:first-child)
+        margin-top: 3em
+
+    &__content
+        margin-left: 2em
+
+    &__title
+        @include font(1.25em, 1.35, 600, "Roboto", Arial, sans-serif)
+
+    &__info
+        margin-top: 1em
+        @include font(1.15em, 1.5, 300, "Roboto", Arial, sans-serif)
+        
