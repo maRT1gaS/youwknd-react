@@ -1,0 +1,19 @@
+@import "../../style/_mixins.sass"
+
+.registration-travel
+
+    &__content
+        text-align: center
+        max-width: 650px
+
+    &__title
+        @include font(2.4em, 1.22, 600, "Roboto", Arial, sans-serif)
+
+        @media (max-width: 470px)
+            @include font(1.8em, 1.22, 600, "Roboto", Arial, sans-serif)
+
+    &__buttons
+        margin-top: 2.5em
+
+    &__telegram
+        margin-right: 1em

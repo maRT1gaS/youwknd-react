@@ -1,0 +1,14 @@
+@import "../../../style/_mixins.sass"
+
+.detail
+    max-width: 755px
+    list-style-type: none
+
+    &:not(:first-child)
+        margin-top: .8em
+
+    &__info
+        @include font(1.25em, 1.55, 300, "Roboto", Arial, sans-serif)
+
+    &__title
+        font-weight: 700
