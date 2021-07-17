@@ -4,6 +4,7 @@ import Header from './componets/Header/Header';
 import Intro from './componets/Intro/Intro';
 import DescriptionList  from './componets/DescriptionList/DescriptionList';
 import DetailList from './componets/DetailList/DetailList';
+import ImageGalary from './componets/ImageGalary/ImageGalary';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Intro />
           <DescriptionList />
           <DetailList />
+          <ImageGalary />
         </main>
       </div>
     </Suspense>
