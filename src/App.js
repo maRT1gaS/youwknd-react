@@ -1,4 +1,5 @@
 import './app.sass';
+import { Suspense } from 'react';
 
 function App() {
   return (

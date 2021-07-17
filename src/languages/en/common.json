@@ -1,0 +1,98 @@
+{
+    "header": {
+        "burger-menu": {
+            "aria-label": "Navigation menu open button"
+        },
+        "nav": [
+            { 
+                "title": "Description of the trip",
+                "url": "#description"
+            },
+            { 
+                "title": "Trip details",
+                "url": "#detail"
+            },
+            { 
+                "title": "Sign up for a trip",
+                "url": "#registration-travel"
+            }
+        ]
+    },
+    "intro": {
+        "title-trip": "Kolomna, Zaraysk and Rape fields together",
+        "time-trip": "5 june, saturday",
+        "cost-trip": "Cost 3000 rubles",
+        "button-order": {
+            "text": "Sign up for a trip",
+            "aria-label": "Recording section button"
+        }
+    },
+    "description": {
+        "title-section": "What will we see on our journey:",
+        "description-list": [
+            {
+                "title": "Zaraysk",
+                "info": "We will see the Zaraisk Kremlin, the smallest Kremlin in Russia. We will also visit an interesting museum with amazing exhibits of 20,000 years old. We will also climb the pseudo-Gothic water tower to see the city from above and visit St. John the Baptist Cathedral - the main temple of the city."
+            },
+            {
+                "title": "Kolomna",
+                "info": "In Kolomna we will have a fascinating excursion around the historical center of the city with a visit to the territory of the Kolomna Kremlin, the most beautiful temples and monsters of the city and walk along the most cozy streets of the city. And of course we will chop the famous Kolomna marshmallow and Kolomna kalach."
+            },
+            {
+                "title": "Rapeseed fields",
+                "info": "In late May - early June, rapeseed blooms in the central part of Russia. This plant is used for the production of rapeseed oil. There are just a lot of such fields near Zaraisk and Kolomna, and we will have the opportunity to stop near them to take wonderful photos."
+            }
+        ]
+    },
+    "detail-list": {
+        "begin-trip": {
+            "title": "When and where do we start",
+            "detail-info": "our journey starts at 8:00 in a cafe near the Taganskaya / Marksistskaya metro station"
+        },
+        "end-trip": {
+            "title": "When and where do we finish",
+            "detail-info": "the journey will end at the Taganskaya / Marksistskaya metro station at 22: 00-23:00"
+        },
+        "cost-trip": {
+            "title": "The cost",
+            "detail-info": "3000 rubles"
+        },
+        "way-of-moving": {
+            "title": "Way of moving",
+            "detail-info": "comfortable minivan"
+        },
+        "groups": {
+            "title": "Group",
+            "detail-info": "from 5 to 8 people"
+        },
+        "included": {
+            "title": "What is included in the price",
+            "detail-info": "all transfers, entrance tickets, a tour of Kolomna and the Zaraisk Kremlin"
+        },
+        "not-included": {
+            "title": "What is not included in the price",
+            "detail-info": "food, souvenir shopping"
+        }
+    },
+    "image-galary": {
+        "image1": {
+            "aria-label": "Some kind of laurel"
+        },
+        "image2": {
+            "aria-label": "Some kind of tower"
+        },
+        "image3": {
+            "aria-label": "Some kind of store"
+        }
+    },
+    "registration-travel": {
+        "title": "To sign up, write to us on Instagram or Telegram:",
+        "buttons": {
+            "aria-label-telegram": "Telegram go button",
+            "aria-label-instagram": "Instagram go button"
+        }
+    },
+    "scroll-top": {
+        "aria-label": "Button to go to the top"
+    }
+}
