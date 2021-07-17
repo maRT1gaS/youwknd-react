@@ -6,6 +6,7 @@ import DescriptionList  from './componets/DescriptionList/DescriptionList';
 import DetailList from './componets/DetailList/DetailList';
 import ImageGalary from './componets/ImageGalary/ImageGalary';
 import RegistrationTravel from './componets/RegistrationTravel/RegistrationTravel';
+import Footer from './componets/Footer/Footer';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <ImageGalary />
           <RegistrationTravel />
         </main>
+        <Footer />
       </div>
     </Suspense>
   );
