@@ -1,11 +1,14 @@
 import './app.sass';
 import { Suspense } from 'react';
+import Header from './componets/Header/Header';
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <Suspense fallback="loading">
+      <div className="page-wrapper">
+        <Header />
+      </div>
+    </Suspense>
   );
 }
 
